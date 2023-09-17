@@ -1,6 +1,7 @@
 
 # Time : Sun Sep 17 09:20:14 2023
 # Platform : Linux aarch64
+# Encrypt  : https://github.com/Dra-ID/Py-Fuscate
 # Obfuscate By Vindra  ID >_<
 vindra=(
 "000000000000000","000000000000000","000000000000000","000000000000000","000000000000000",
