@@ -1,0 +1,9 @@
+requests
+rich
+bs4
+BeautifulSoup4
+colorama
+datetime
+pystyle
+inquirer
+fake_useragent
